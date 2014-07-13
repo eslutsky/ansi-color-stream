@@ -1,7 +1,7 @@
 {
   "name": "ansi-color-stream",
   "version": "1.0.0",
-  "description": "compute ansi color modes fuzzily with strings",
+  "description": "colorize a stream with ansi colors",
   "main": "index.js",
   "dependencies": {
     "fuzzy-ansi-color": "~1.0.0",
